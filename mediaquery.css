@@ -1,0 +1,22 @@
+@media only screen and (max-width: 375px) {
+  
+
+    *{
+        scale:95%;
+        margin-right: 100px;
+    }
+
+    .attribution{
+        margin-left: 80px;
+        }
+
+
+    
+    .FEM{
+        width: 320px;
+    }
+
+    .name{
+        width: 320px;
+    }
+  }

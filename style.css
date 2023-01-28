@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Outfit-Medium';
+    src: url(Outfit-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Outfit-Bold';
+    src: url(Outfit-Bold.ttf);
+}
+
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    
+}
+
+.card{
+
+background-color: white;
+border-radius: 10px;
+width: 320px;
+height: 497px;
+margin-left: 40%;
+}
+
+h2{
+    width: 280px;
+    text-align: center;
+    font-family: 'Outfit-Bold';
+    color: hsl(218, 44%, 22%);
+    margin-left: 16px;
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+    width: 250px;
+    margin-left: 32px;
+    color:hsl(220, 15%, 55%);
+    font-family: 'Outfit-Medium';
+}
+
+.QR{
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+
+.attribution{
+    margin-top: 15px;
+    font-family: 'Outfit-Bold';
+    margin-left: 40%;
+
+}
